@@ -120,8 +120,6 @@ SARIMA performs better than machine learning when production data is limited.
 - Statsmodels
 - ipywidgets
 
----
 
-## Repository Contents
 
 
